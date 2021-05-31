@@ -25,7 +25,7 @@ We'd like to give all candidates taking this test the same opportunity to solve 
 2. Read all of the 'Exercise' part before you start.
 3. Write your solution to the exercise making sure the provided tests are green.
 4. Push your solution to a **private repo** in your **personal Github account**.
-5. When you are ready for us to take a look add users `paul-pro`, `AragonCodes`, `Sc4ramouche` and `kotik-adjust` as collaborators to your repo.
+5. When you are ready for us to take a look add users `paul-pro`, `AragonCodes` and `Sc4ramouche` as collaborators to your repo.
 
 
 ## Exercise
