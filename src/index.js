@@ -1,12 +1,15 @@
-import {prepareData, renderData} from './solution'
+import { prepareData, renderData } from "./solution";
+
+/* 
+  PLEASE DO NOT MODIFY THIS FILE
+*/
 
 const filterParams = {
   year: 2018,
-  customerName: 'NASA',
-}
+  customerName: "NASA",
+};
 
-// example of run, you could leave it or modify however you want
-fetch('https://api.spacexdata.com/v3/launches/past')
-  .then(response => response.json())
+fetch("https://api.spacexdata.com/v3/launches/past")
+  .then((response) => response.json())
   .then(prepareData(filterParams))
-  .then(renderData)
+  .then(renderData);
