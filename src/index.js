@@ -6,10 +6,10 @@ import { prepareData, renderData } from "./solution";
 
 const filterParams = {
   year: 2018,
-  customerName: "NASA",
+  customerName: "NASA"
 };
 
 fetch("https://api.spacexdata.com/v3/launches/past")
-  .then((response) => response.json())
+  .then(response => response.json())
   .then(prepareData(filterParams))
   .then(renderData);
