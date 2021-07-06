@@ -22,7 +22,7 @@ We'd like to give all candidates taking this test the same opportunity to solve 
 2. You **MUST clone** this repo to a location of your choosing where you can work on your solution. See how to clone a repository [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 3. Write your solution to the exercise making sure the provided tests are green. **Please DO NOT modify anything inside of `/tests`**
 4. Push your solution to a **private repo** in your **personal Github account**.
-5. When you are ready for us to take a look add users @paul-pro, @AragonCodes, @Sc4ramouche and @henderjarr as collaborators to your repo.
+5. When you are ready for us to take a look add users `paul-pro`, `AragonCodes`, `Sc4ramouche` and `henderjarr` as collaborators to your repo.
 
 ## Exercise
 
